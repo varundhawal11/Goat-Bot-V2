@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "ashish158526@gmail.com",
-		"password": "SeXX71+@#",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -40,15 +40,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "ashish158526@gmail.com",
-			"clientId": "33632550924-st5hqcvargllkdc49or26eessoj3ihal.apps.googleusercontent.com",
-			"clientSecret": "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",
-			"refreshToken": "1//04LCjs93YXHg8CgYIARAAGAQSNwF-L9IryqYH_89XZ8iCqP7oIiekYO4Pa-JiWklf3D_UpzSE3Yz6Gka0B4lP5Q3ZwKcE0u5ySeQ",
+			"email": "",
+			"clientId": "",
+			"clientSecret": "",
+			"refreshToken": "",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "6LeV4VkqAAAAALs6G3RJlWFOIWF1vUE5pwbX7Jcf",
-			"secretKey": "6LeV4VkqAAAAAPYqjmpj8xyi5ecGo8uZkl8QLEiA"
+			"siteKey": "",
+			"secretKey": ""
 		}
 	},
 	"dashBoard": {
